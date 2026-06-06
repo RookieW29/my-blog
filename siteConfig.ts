@@ -2,17 +2,17 @@
 
 export const siteConfig = {
   // 1. 网站标题与博主信息
-  title: "XingHuiSama の 宝藏之地",
+  title: "金陵小满 の 秘密基地",
   faviconUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
-  authorName: "XingHuiSama",
-  bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
+  authorName: "金陵小满",
+  bio: "金陵小满的个人博客，记录生活与技术的点点滴滴。",
 
-  navTitle: "XingHuiSama",
+  navTitle: "金陵小满",
 
   // 👇 【新增】导航栏中间的那个后缀/分隔符（默认是 の）
   navSuffix: "の",
 
-  navAfter: "宝藏之地",
+  navAfter: "秘密基地",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
   avatarUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
@@ -42,7 +42,7 @@ export const siteConfig = {
     photos: 128, // 照片墙数量可以手动写死或动态计算
   },
   chatterTitle: "云端杂谈", // 你可以改成任何你喜欢的名字
-  chatterDescription: "代码、学术、提瓦特与泰拉大陆的碎片记录",
+  chatterDescription: "生活、代码与南京城的琐碎日常",
 
 
   // 👇 【新增】：全局背景弹幕配置
